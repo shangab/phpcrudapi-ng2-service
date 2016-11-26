@@ -1,0 +1,32 @@
+{
+  "name": "phpcrudapiservice",
+  "version": "1.0.0",
+  "description": "An Angular 2.0 Http Service for a PHP_CRUD_API service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shangab/phpcrudapi-ng2-service.git"
+  },
+  "keywords": [
+    "ng2",
+    "angular",
+    "php_crud_api",
+    "http"
+  ],
+  "author": "Abubaker Shangab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shangab/phpcrudapi-ng2-service/issues"
+  },
+  "homepage": "https://github.com/shangab/phpcrudapi-ng2-service#readme",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.17"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.10"
+  }
+}
