@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/shangab/phpcrudapi-ng2-service#readme",
   "dependencies": {
-    "angular2": "^2.0.0-beta.17"
+    "angular2": "^2.0.0-beta.17",
+    "rxjs": "^5.0.0-rc.4"
   },
   "devDependencies": {
     "typescript": "^2.0.10"
